@@ -20,7 +20,7 @@ Click on the "Fork" button at the top right corner of this repository to create 
 
 ### 2. Clone the Repository
 
-Clone the forked repository to your local machine using Git. Replace `{your-username}` with your GitHub username:
+Clone the forked repository to your local machine using Git. 
 
 ```bash
-git clone https://github.com/{your-username}/Calculator-website.git
+git clone https://github.com/tusharma08/Calculator-website.git
