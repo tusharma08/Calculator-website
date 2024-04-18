@@ -1,6 +1,8 @@
 # Simple UI Calculator Website
 
 This repository contains code for a simple calculator website implemented using HTML, CSS, and JavaScript. The calculator provides basic arithmetic operations and a user-friendly interface for performing calculations.
+<hr>
+![Screenshot 2024-04-11 150721](https://github.com/tusharma08/Calculator-website/assets/96423502/7b566582-3d13-4439-b0f5-66e7f7007a92)
 
 ### Features
 
@@ -13,14 +15,3 @@ This repository contains code for a simple calculator website implemented using 
 ## Getting Started
 
 To use the Calculator Website for your own purposes, follow these steps:
-
-### 1. Fork the Repository
-
-Click on the "Fork" button at the top right corner of this repository to create a copy of it in your GitHub account.
-
-### 2. Clone the Repository
-
-Clone the forked repository to your local machine using Git. 
-
-```bash
-git clone https://github.com/tusharma08/Calculator-website.git
