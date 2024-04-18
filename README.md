@@ -2,7 +2,7 @@
 
 This repository contains code for a simple calculator website implemented using HTML, CSS, and JavaScript. The calculator provides basic arithmetic operations and a user-friendly interface for performing calculations.
 <hr>
-
+![img1](../Calculator/assets/img1.png)
 
 ### Features
 
