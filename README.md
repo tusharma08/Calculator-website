@@ -2,7 +2,6 @@
 
 This repository contains code for a simple calculator website implemented using HTML, CSS, and JavaScript. The calculator provides basic arithmetic operations and a user-friendly interface for performing calculations.
 <hr>
-![Screenshot 2024-04-11 150721](https://github.com/tusharma08/Calculator-website/assets/96423502/df10f991-f854-460d-a5bc-f845dcd0ab9d)
 
 
 ### Features
